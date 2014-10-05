@@ -24,6 +24,6 @@ The OrmliteCursorAdapter is based off of logic from https://github.com/sosiouxme
 OrmliteCursorLoader and CustomBaseDaoImpl is the work of campnic@gmail.com you'll need to contact him for license
 
 
-Jai Shri Krishn
+जय श्री कृष्ण
 
 
